@@ -5,3 +5,7 @@ Intro to GitHub tutorial for USU robotics club
 Name: **Joshua Frerichs**\
 Major: *Computer Science*\
 Home State: ~~Nebraska~~
+
+Name: **Joshua Frerichs**\
+Major: *Computer Science*\
+Home State: ~~Nebraska~~
