@@ -10,3 +10,7 @@ Home State: ~~Nebraska~~
 Club: USU Robotics
 
 
+
+Name: **Blayne Campbell**\
+Major: *Computer Engineering*\
+Home State: ~~North Dakota~~
