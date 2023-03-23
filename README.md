@@ -8,5 +8,4 @@ Home State: ~~Nebraska~~
 
 
 Club: USU Robotics
-
-
+Meeting Date: 03/22/2023
