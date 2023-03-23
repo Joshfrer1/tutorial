@@ -27,7 +27,14 @@ Major: *Electrical Engineering*\
 Home State: ~~Idaho~~
 
 
+This is marks branch!!
+Name: **Mark Soulier**\
+Major: *Electrical Engineering*\
+Home State: ~~Colorado~~
+
+
 Name: **Blayne Campbell**\
 Major: *Computer Engineering*\
 Home State: ~~North Dakota~~
+
 
