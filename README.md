@@ -10,3 +10,6 @@ Home State: ~~Nebraska~~
 Club: USU Robotics
 
 
+Name: **(Chris)Topher Hopkins**\
+Major: *Electrical Engineering*\
+Home State: ~~Idaho~~
