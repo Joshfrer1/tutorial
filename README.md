@@ -38,3 +38,8 @@ Major: *Computer Engineering*\
 Home State: ~~North Dakota~~
 
 
+Name: **Thomas Sundberg**\
+Major: *Computer Science*\
+Home State: Utah
+
+
