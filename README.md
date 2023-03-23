@@ -13,6 +13,8 @@ Name: **Tanner Dalde**\
 Major: *Computer Engineering*\
 Home State: ~~Utah~~\
 
+Club: USU Robotics
+
 
 Name: **Joshua Taggart**\
 Major: *Electrical Engineering*\
@@ -27,3 +29,9 @@ Home State: Tennessee
 Name: **(Chris)Topher Hopkins**\
 Major: *Electrical Engineering*\
 Home State: ~~Idaho~~
+
+
+Name: **Blayne Campbell**\
+Major: *Computer Engineering*\
+Home State: ~~North Dakota~~
+
