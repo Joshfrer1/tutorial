@@ -7,3 +7,6 @@ Major: *Computer Science*\
 Home State: ~~Nebraska~~
 
 
+Club: USU Robotics
+
+
