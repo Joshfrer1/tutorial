@@ -5,6 +5,7 @@ Intro to GitHub tutorial for USU robotics club
 Name: **Joshua Frerichs**\
 Major: *Computer Science*\
 Home State: ~~Nebraska~~
+Meeting Date: 03/22/2023
 
 Name: **Tanner Dalde**\
 Major: *Computer Engineering*\
