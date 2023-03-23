@@ -8,5 +8,7 @@ Home State: ~~Nebraska~~
 
 
 Club: USU Robotics
-
+Name: **Morgan Maxwell**
+Major: *Mechanical Engineering*
+Home State: Tennessee 
 
