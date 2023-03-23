@@ -10,3 +10,6 @@ Home State: ~~Nebraska~~
 Club: USU Robotics
 
 This is marks branch!!
+Name: **Mark Soulier**\
+Major: *Electrical Engineering*\
+Home State: ~~Colorado~~
