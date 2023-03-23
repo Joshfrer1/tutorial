@@ -9,4 +9,6 @@ Home State: ~~Nebraska~~
 
 Club: USU Robotics
 
-
+Name: **Joshua Taggart**\
+Major: *Electrical Engineering*\
+Home State: Utah
