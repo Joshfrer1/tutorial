@@ -10,3 +10,6 @@ Home State: ~~Nebraska~~
 Club: USU Robotics
 
 
+Name: **Thomas Sundberg**\
+Major: *Computer Science*\
+Home State: Utah
