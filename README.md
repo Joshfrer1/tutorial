@@ -12,6 +12,11 @@ Home State: ~~Utah~~\
 
 Club: USU Robotics
 
+
 Name: **Joshua Taggart**\
 Major: *Electrical Engineering*\
 Home State: Utah
+
+Name: **Morgan Maxwell**
+Major: *Mechanical Engineering*
+Home State: Tennessee 
